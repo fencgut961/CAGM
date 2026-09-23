@@ -1,4 +1,4 @@
-# **SdA 1.1: Navegando sin Miedo (Manejo Básico de Google Chrome)**
+# **SdA 1.1.1: Navegando sin Miedo (Manejo Básico de Google Chrome)**
 
 ---
 
