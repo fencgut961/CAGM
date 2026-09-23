@@ -1,4 +1,4 @@
-# **SdA 1.2: Desafío Buscador (Estrategias de Búsqueda y Filtrado en la Web)**
+# **SdA 1.1.2: Desafío Buscador (Estrategias de Búsqueda y Filtrado en la Web)**
 
 ---
 
