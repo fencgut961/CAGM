@@ -14,7 +14,7 @@ El alumnado seguirá esta guía práctica directamente en su equipo informático
    * Los botones de navegación **Atrás** (`←`) y **Recargar** (`↻`).
 
 ### **PASO 2: Personalizar la apariencia de Chrome**
-1. Haz clic en el botón **Personalizar Chrome** (abajo a la derecha) o entra en el menú de tres puntos verticales (`⋮`) ➔ **Configuración** ➔ **Aspecto**.
+1. Haz clic en el botón **Configuración** (abajo a la derecha) o entra en el menú de tres puntos verticales (`⋮`) ➔ **Configuración** ➔ **Aspecto**.
 2. Selecciona un color o activa el **Modo Oscuro** para reducir la fatiga visual.
 3. Haz una **captura de pantalla** de la ventana de Chrome con el tema personalizado aplicado.
 
