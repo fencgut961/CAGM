@@ -4,7 +4,7 @@
 
 ## **1. ACTIVIDAD A REALIZAR (Paso a paso en clase)**
 
-El alumnado seguirá esta guía práctica directamente en su equipo informático:
+El alumnado seguirá esta guía práctica directamente en su equipo informático (para guardar las capturas de pantalla usaremos la aplicación **Herramienta Recorte**):
 
 ### **PASO 1: Conocer las partes de Google Chrome**
 1. Haz doble clic en el icono de **Google Chrome** en el escritorio para abrirlo.
@@ -62,7 +62,7 @@ El trabajo se elaborará en la nube utilizando **Google Docs** y se entregará a
 
 3. **Exportar a PDF y subir a Moodle:**
    * En el menú superior de Google Docs, selecciona **`Archivo` ➔ `Descargar` ➔ `Documento PDF (.pdf)`**.
-   * Abre la plataforma **Moodle Centros**, entra en la tarea **SdA 1.1** y sube el archivo PDF descargado.
+   * Abre la plataforma **Moodle Centros**, entra en la tarea **SdA 1.1.1** y sube el archivo PDF descargado.
 
 ---
 
